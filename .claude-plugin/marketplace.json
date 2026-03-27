@@ -1,0 +1,26 @@
+{
+  "name": "claude-ac",
+  "owner": {
+    "name": "Alpha Coders"
+  },
+  "metadata": {
+    "description": "Cowork plugins by Alpha Coders — AI-powered tools for engineering managers and developers: PR awareness, team metrics, and project memory.",
+    "pluginRoot": "./plugins",
+    "repository": "https://github.com/Alpha-Coders/claude-ac"
+  },
+  "plugins": [
+    {
+      "name": "gitcustos",
+      "source": "./plugins/gitcustos",
+      "description": "AI-powered PR situational awareness for engineering managers and developers. Daily briefings, cycle time metrics, and contributor context — all from your GitHub PRs.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alpha Coders"
+      },
+      "homepage": "https://github.com/Alpha-Coders/claude-ac/tree/main/plugins/gitcustos",
+      "repository": "https://github.com/Alpha-Coders/claude-ac",
+      "keywords": ["github", "pull-requests", "engineering-management", "developer-tools", "daily-briefing", "metrics"],
+      "category": "productivity"
+    }
+  ]
+}

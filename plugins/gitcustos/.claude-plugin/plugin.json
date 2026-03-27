@@ -1,0 +1,9 @@
+{
+  "name": "gitcustos",
+  "version": "0.1.0",
+  "description": "AI-powered PR situational awareness for engineering managers and developers",
+  "author": {
+    "name": "Alpha Coders"
+  },
+  "keywords": ["github", "pull-requests", "engineering-management", "developer-tools", "daily-briefing"]
+}
